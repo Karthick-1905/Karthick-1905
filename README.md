@@ -1,4 +1,4 @@
-<table>
+<table width= "100%">
   <tr>
     <td width="75%">
       <h1>
@@ -32,8 +32,6 @@
 <hr>
 
 <br>
-
-<hr>
 
 ## 🐍 My Contributions
 
