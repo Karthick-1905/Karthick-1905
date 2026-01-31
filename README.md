@@ -1,15 +1,14 @@
-<table width= "100%">
-  <tr>
-    <td width="75%">
-      <h1>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Karthick+JS;" />
-      </h1>
-    </td>
-    <td width="25%" align="right">
-      <img src="https://komarev.com/ghpvc/?username=Karthick-1905&label=Visitors&color=0e75b6&style=flat" />
-    </td>
-  </tr>
-</table>
+<div style="display:flex; justify-content:space-between; align-items:center; width:100%;">
+  <h1 style="margin:0;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&vCenter=true&width=480&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Karthick+JS;" />
+  </h1>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=Karthick-1905&label=Visitors&color=0e75b6&style=flat"
+    alt="visitor count"
+  />
+</div>
+
 
 ### Studying Computer Science, likes building systems and customizing stuffs . Does web dev most of The time. Feel free to reach out
 <br>
