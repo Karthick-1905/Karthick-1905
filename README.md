@@ -1,13 +1,17 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karthick-1905&label=Visitors&color=0e75b6&style=flat" />
-</p>
+<table>
+  <tr>
+    <td width="75%">
+      <h1>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Karthick+JS;" />
+      </h1>
+    </td>
+    <td width="25%" align="right">
+      <img src="https://komarev.com/ghpvc/?username=Karthick-1905&label=Visitors&color=0e75b6&style=flat" />
+    </td>
+  </tr>
+</table>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Karthick+js!;" />
-</h1>
-
-### Studying Computer Science, likes building systems and customizing stuffs . Does web dev most of The time. Feel free to contact me
-- 🌱 I’m currently learning **[System Design](https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf)**
+### Studying Computer Science, likes building systems and customizing stuffs . Does web dev most of The time. Feel free to reach out
 <br>
 
 <div align="center">
@@ -21,20 +25,13 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,redux,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,nextjs,mongodb,postgres,prisma,drizzle" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,redux,git,postman,docker" />
 </p>
 
 <hr>
 
 <br>
-
-<div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Karthick-1905&theme=transparent&show_icons=true&cache_seconds=1800" />
-  <img width=390 src="https://streak-stats.demolab.com?user=Karthick-1905&theme=transparent" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthick-1905&layout=donut&theme=transparent&langs_count=8" />
-</div>
-
 
 <hr>
 
