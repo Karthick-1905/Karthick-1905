@@ -1,6 +1,6 @@
 <div align="center"> 
   <p>Visitor count</p>
-  ![Profile Views](https://komarev.com/ghpvc/?username=Karthick-1905&color=blue&style=for-the-badge)
+  <img src="https://profile-counter.glitch.me/Karthick-1905/count.svg" />
 </div>
 
 <h1 align="center">
