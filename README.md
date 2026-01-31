@@ -1,16 +1,7 @@
-<div style={ { display:flex; justify-content:space-between; align-items:center; width:100%; } }>
-  <h1 style={{ margin:0 }}>
-    <h2>I'm  Karthick JS</h2>
-  </h1>
+# Hey there :wave:
 
-  <img
-    src="https://komarev.com/ghpvc/?username=Karthick-1905&label=Visitors&color=0e75b6&style=flat"
-    alt="visitor count"
-  />
-</div>
-
-
-### Studying Computer Science, likes building systems and customizing stuffs . Does web dev most of The time. Feel free to reach out
+## About me
+I am Karthick JS. Studying Computer Science, likes building systems and customizing stuffs . Does web dev most of The time. Feel free to reach out
 <br>
 
 <div align="center">
