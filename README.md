@@ -1,6 +1,6 @@
 <div style={ { display:flex; justify-content:space-between; align-items:center; width:100%; } }>
   <h1 style={{ margin:0 }}>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&vCenter=true&width=480&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Karthick+JS;" />
+    <h2>I'm  Karthick JS</h2>
   </h1>
 
   <img
