@@ -1,7 +1,7 @@
 # Hey there :wave:
 
 ## About me
-I am Karthick JS. Studying Computer Science, likes building systems and customizing stuffs . Does web dev most of The time. Feel free to reach out
+I am Karthick JS. Studying Computer Science, likes building systems and customizing stuffs(I use Arch BTW) . Does web dev most of The time. Feel free to reach out
 <br>
 
 <div align="center">
