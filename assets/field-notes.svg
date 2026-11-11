@@ -1,0 +1,29 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Karthick JS — open field notes</title>
+  <desc id="desc">A dark editorial profile banner with a mint-green title, pink signal mark, and a small constellation of developer notes.</desc>
+  <rect width="1200" height="330" rx="18" fill="#0D1117"/>
+  <path d="M0 264C180 232 278 300 449 264C620 228 715 180 891 207C1034 229 1110 191 1200 159" stroke="#202833" stroke-width="1"/>
+  <path d="M0 287C162 258 296 318 462 280C620 244 744 208 904 230C1032 248 1109 218 1200 190" stroke="#202833" stroke-width="1"/>
+  <path d="M56 40H1144M56 100H1144M56 160H1144M56 220H1144M56 280H1144" stroke="#161D26" stroke-width="1"/>
+  <path d="M62 40V290M150 40V290M238 40V290M326 40V290M414 40V290M502 40V290M590 40V290M678 40V290M766 40V290M854 40V290M942 40V290M1030 40V290M1118 40V290" stroke="#161D26" stroke-width="1"/>
+  <circle cx="1007" cy="83" r="5" fill="#FF5C8D"/>
+  <circle cx="1007" cy="83" r="15" stroke="#FF5C8D" stroke-opacity=".25"/>
+  <circle cx="1007" cy="83" r="27" stroke="#FF5C8D" stroke-opacity=".12"/>
+  <path d="M1007 110V189M1007 189L1075 242M1007 189L935 244" stroke="#FF5C8D" stroke-opacity=".5" stroke-width="1" stroke-dasharray="3 6"/>
+  <circle cx="1075" cy="242" r="3" fill="#B7F397"/>
+  <circle cx="935" cy="244" r="3" fill="#B7F397"/>
+  <text x="72" y="84" fill="#7D8998" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="2">FIELD NOTE // 01</text>
+  <text x="68" y="159" fill="#B7F397" font-family="Georgia, 'Times New Roman', serif" font-size="74" font-weight="700" letter-spacing="-3">Karthick JS</text>
+  <text x="74" y="196" fill="#C7D0DC" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">computer science student · web developer · systems tinkerer</text>
+  <rect x="74" y="232" width="132" height="31" rx="15.5" fill="#B7F397"/>
+  <text x="93" y="252" fill="#0D1117" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="700">OPEN TO IDEAS ↗</text>
+  <text x="74" y="293" fill="#7D8998" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">make · learn · share · repeat</text>
+  <g fill="#7D8998" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">
+    <text x="896" y="144">curiosity: high</text>
+    <text x="896" y="163">status: shipping</text>
+    <text x="896" y="182">mode: night owl</text>
+  </g>
+  <circle cx="880" cy="140" r="3" fill="#B7F397"/>
+  <circle cx="880" cy="159" r="3" fill="#B7F397"/>
+  <circle cx="880" cy="178" r="3" fill="#B7F397"/>
+</svg>
