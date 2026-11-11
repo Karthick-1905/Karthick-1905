@@ -35,25 +35,6 @@
 
 <br />
 
-<p align="center">
-  <a href="https://awsnap.dev/globe/pet">
-    <img src="https://awsnap.dev/globe/blip.svg" width="820" alt="Blip, my profile's cat — levels up with every cookie, pet and play from visitors. Click the cat to pet it."/>
-  </a>
-
-  <br/>
-
-  <a href="https://awsnap.dev/globe/treat">
-    <img src="https://awsnap.dev/globe/btn-cookie.svg" width="260" alt="give Blip a cookie"/>
-  </a> 
-  
-  <a href="https://awsnap.dev/globe/pet">
-    <img src="https://awsnap.dev/globe/btn-pet.svg" width="260" alt="pet Blip"/>
-  </a>
-  <a href="https://awsnap.dev/globe/play">
-    <img src="https://awsnap.dev/globe/btn-play.svg" width="260" alt="play with Blip"/>
-  </a>
-</p>
-
 
 <h2 align="center">🐍 My contributions</h2>
 
